@@ -97,6 +97,11 @@ public class SingleTon {
 //     }
 // }
 
+/*
+ * This appraoch will cause congestion of threads,
+ * even though instance is created one thread will be able to access this object at a time.
+ */
+
 // Best Solution
 class SingletonExample {
     // Private constructor prevents instantiation from other classes
