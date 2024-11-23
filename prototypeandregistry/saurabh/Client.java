@@ -23,7 +23,7 @@ public class Client {
         Student april2023 = std.getStudent("april2023");
         System.out.println("Student 1: " + april2023.id + " " + april2023.name + " " + april2023.rank);
 
-        IntelligentStudent intStd = std.getStudent("april2023IS");
+        IntelligentStudent intStd = (IntelligentStudent) std.getStudent("april2023IS");
         // IntelligentStudent intStd = (IntelligentStudent) april2023IS;
         System.out.println("Student 2: " + intStd.id + " " + intStd.name + " " + intStd.rank+" "+intStd.iq);
     }

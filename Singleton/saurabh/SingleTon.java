@@ -13,6 +13,7 @@
  * 3. Behavioural
  *      a. Observer
  *      b. Strategy
+ *      c. Command
  * 
  * Singleton allows you to only one object to create 
  */
