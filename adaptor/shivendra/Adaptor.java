@@ -1,5 +1,5 @@
 package adaptor.shivendra;
-
+// Third Party Libraries integration
 /* Structural Design Pattern */
 /*
 Structural design patterns are a category of design patterns in software engineering that focus on how classes 
