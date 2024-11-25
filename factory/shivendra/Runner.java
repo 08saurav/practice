@@ -64,15 +64,6 @@ public class GFG {
 }
  */
 
-
- /*
-  * Factory Design Pattern
-  * It gives an Interface for creating objects from a superclass
-  * When it should be used :
-  * It is to be used when type of objects to be created needs to be determined at time of run time or users input.
-  * This pattern simplifies the object creation process by placing it in a dedicated method, promoting loose coupling between the object creator and the objects themselves.
-  * 
-  */
 public class Runner {
     public static void main(String[] args) {
         VehicleFactory twoWheelerFactory = new TwoWheelerFactory();
