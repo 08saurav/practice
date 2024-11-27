@@ -72,3 +72,21 @@ class GlyphFactory {
         return hm.get(key);
     }
 }
+
+/*
+Use Cases of Flyweight Pattern
+Text Rendering Systems:
+Reduce memory usage by sharing character data (e.g., fonts and styles).
+
+Graphics or Game Development:
+Efficiently render large numbers of similar objects (e.g., trees in a forest, enemies in a game).
+
+Document Editors:
+Manage styles and formatting efficiently for large documents.
+
+Caching Systems:
+Share common data across multiple requests (e.g., icons, images).
+
+Geospatial Systems:
+Render large maps with repeated features like roads, buildings, or landmarks.
+*/
