@@ -1,5 +1,8 @@
 package decorator.shivendra;
 
+// strategy design  pattern says when we need to do a particular task and we have multiple different 
+// task create those different strategies in different class and tie them up with interface , 
+// if you want to get the different object you can use factory to get the object of different strategy
 
 /*                           ------------------------- Decorator Design Pattern ---------------------------
  * If we have decorators to be added above base class and they can be added again again then if use classes for every
