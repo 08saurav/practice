@@ -18,6 +18,23 @@
  * Singleton allows you to only one object to create 
  */
 
+ /**
+  * Pillars of OOPs : 
+  * inheritance
+  * abstraction
+  * polimorphism
+  * encapsulation 
+  * compostion
+  * aggregation
+  * multithreading.
+  * comparators
+  * comparable
+  * garbage 
+  * collection
+  * streams
+  * collections
+  */
+
 // public class SingleTon {
 //     public static void main(String[] args) {
 //         SingletonExample SingletonExample1 = SingletonExample.getInstance();
