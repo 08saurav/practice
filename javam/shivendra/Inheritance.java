@@ -1,4 +1,4 @@
-package Java.shivendra;
+package javam.shivendra;
 
 /*
  * In case of inheritance child class inherits properties from parent class i.e. IS-A relationship

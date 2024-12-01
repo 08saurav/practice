@@ -1,4 +1,4 @@
-package Java.shivendra;
+package javam.shivendra;
 
 /**
  * 
