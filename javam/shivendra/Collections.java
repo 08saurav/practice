@@ -4,6 +4,7 @@ import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.Map;
@@ -116,6 +117,7 @@ public class Collections {
 
     public static void mapI() {
         Map<Integer, Integer>m = new HashMap<>(); // unordered map
+        Map<Integer, Integer>lm = new LinkedHashMap<>(); // maintains insertion order
         Map<Integer, Integer>tm = new TreeMap<>(); // ordered map
         tm.put(1, 1);
         m.put(1,1);
