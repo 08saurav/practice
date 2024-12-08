@@ -29,8 +29,7 @@
   * multithreading.
   * comparators
   * comparable
-  * garbage 
-  * collection
+  * garbage collection
   * streams
   * collections
   */
